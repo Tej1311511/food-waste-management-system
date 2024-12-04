@@ -101,4 +101,4 @@ const prompts = [
   
   // Whatever else you want :)
   
-  const coronavirus = ["Please stay home", "Wear a mask", "Fortunately, I don't have COVID", "These are uncertain times"]
+  
